@@ -6,7 +6,7 @@
 **Front End:** React v.16.12.0, CSS  
 **Back End:** Rails 6.0.2.1   
 **Testing frameworks:** Cypress, Enzyme  
-**Deployed at:** [Netlify](https://ckpcooper.netlify.com/) and [Heroku](https://www.heroku.com/).
+**Deployed at:** [Netlify](https://kpcooper.netlify.com/) and [Heroku](https://www.heroku.com/).
 
 ## The code   
 This project is the client facing side of our Cooper Test application. Our repositories for the Cooper API built in Rails can be found at the following links for [Paulo](https://github.com/pauloswardblad/cooper_api) and [Kayla](https://github.com/kaylawoodbury/cooper_api).
