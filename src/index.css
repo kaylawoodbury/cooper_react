@@ -7,7 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background:linear-gradient(to top,  #04469c 0%, #7ea6e2 100%);
   background-size: cover;
-  height: 150vh;
+  height: 100%;
   
 }
 
